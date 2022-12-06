@@ -15,5 +15,5 @@ get resultado(){
 
   constructor(private giftService: GifsService) { }
 
- 
+
 }
