@@ -9,7 +9,7 @@ export class ResultadoComponent {
 
 
 get resultado(){
-  return this.giftService.resultado;
+  return this.giftService.resultados;
 }
 
 
